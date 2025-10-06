@@ -4,19 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Icono</title>
-    <meta name="description" content="Esto es una prueba de marcado">
-    <meta name="keywords" content="html, ejemplo, marcado">
+    <meta name="description" content="Esto es una prueba de blockquote">
+    <meta name="keywords" content="html, ejemplo, blockquote">
     <meta name="author" content="Andrés">
-    <meta name="application-name" content="EjemploMarcadoBásico.html">
+    <meta name="application-name" content="blockquote.html">
     <meta name="generator" content="VSCode">
     <link rel="icon" sizes="64x64" href="./assets/icons/ilerna.png">
 </head>
 <body>
-    <p> <b> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid!</b> </p>
+    <h1>Título </h1>
+    <p> <b> Lorem, ipsum <s>olor sit amet consectetur adipisicing elit. Aliquam cupiditate ad atque illum saepe tempore soluta</s>, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid!</b> </p>
     <p> <i> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </i> </p>
     <p>  Lorem, ipsum dolor sit <b> amet consectetur adipisicing elit </b>. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </p>
     <p>  Lorem, ipsum dolor sit amet consectetur adipisicing elit. <b> <i> Aliquam cupiditate ad atque illum saepe tempore soluta </i></b>, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </p> <br>
-    <p>  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </p>
-      
+    <p>  Lorem, <u>ipsum dolor sit amet consectetur adipisicing elit</u>. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </p>
+    <blockquote cite="www.google.com">  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea adipisci, ipsum iusto veniam necessitatibus soluta, consequatur, doloribus unde nam rerum quisquam suscipit fugit eius corrupti? Quisquam nulla omnis natus provident.</blockquote>  
 </body>
 </html>
