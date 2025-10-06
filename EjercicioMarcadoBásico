@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Icono</title>
+    <meta name="description" content="Esto es una prueba de marcado">
+    <meta name="keywords" content="html, ejemplo, marcado">
+    <meta name="author" content="Andrés">
+    <meta name="application-name" content="EjemploMarcadoBásico.html">
+    <meta name="generator" content="VSCode">
+    <link rel="icon" sizes="64x64" href="./assets/icons/ilerna.png">
+</head>
+<body>
+    <p> <b> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid!</b> </p>
+    <p> <i> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </i> </p>
+    <p>  Lorem, ipsum dolor sit <b> amet consectetur adipisicing elit </b>. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </p>
+    <p>  Lorem, ipsum dolor sit amet consectetur adipisicing elit. <b> <i> Aliquam cupiditate ad atque illum saepe tempore soluta </i></b>, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </p>
+    <p>  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam cupiditate ad atque illum saepe tempore soluta, laudantium accusamus, fugiat recusandae eum quibusdam eligendi! Rerum dolor cupiditate maiores, accusamus atque aliquid! </p>
+      
+</body>
+</html>
